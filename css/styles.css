@@ -1,0 +1,14 @@
+.nav-item, .navbar-brand{
+  cursor: pointer;
+}
+
+#histories{
+  height: 500px;               /* 横幅を200pxに指定 */
+  overflow-y: scroll;          /* 縦方向にスクロール可能にする */
+}
+
+/* #RaderChart{
+  width: 20px;
+  height: 20px;
+  background-color: rgb(91, 209, 255);
+} */
